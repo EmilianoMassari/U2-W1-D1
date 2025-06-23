@@ -275,4 +275,18 @@ footer a {
     display: inline-block;
     width: 33%;
   }
+
+  iframe {
+    width: 400px;
+    height: 250px;
+    vertical-align: top;
+    display: inline-block;
+  }
+
+  section {
+    width: 400px;
+    height: 250px;
+    vertical-align: top;
+    display: inline-block;
+  }
 }
